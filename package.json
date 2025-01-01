@@ -1,0 +1,30 @@
+{
+  "name": "@trenskow/stream-awaiter",
+  "version": "0.1.0",
+  "description": "Simple package for awaiting a stream to end.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trenskow/stream-awaiter.git"
+  },
+  "keywords": [
+    "stream",
+    "await"
+  ],
+  "author": "Kristian Trenskow <this.is@kristians.email>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/trenskow/stream-awaiter/issues"
+  },
+  "homepage": "https://github.com/trenskow/stream-awaiter#readme",
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.2.0",
+    "@eslint/js": "^9.17.0",
+    "eslint": "^9.17.0",
+    "globals": "^15.14.0"
+  }
+}
