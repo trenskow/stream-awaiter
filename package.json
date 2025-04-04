@@ -1,6 +1,6 @@
 {
   "name": "@trenskow/stream-awaiter",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Simple package for awaiting a stream to end.",
   "main": "index.js",
   "type": "module",
